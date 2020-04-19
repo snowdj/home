@@ -5,52 +5,75 @@ permalink: /research/
 
 ## Working papers
 
-**Which findings should be published**,   
+**Adaptive treatment assignment in experiments for policy choice**  
+  (joint with Anja Sautmann)  
+  *Revise and resubmit, Econometrica, 2020*  
+  Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
+  Supplementary Appendix: [adaptiveexperimentspolicy_supplement.pdf](/home/files/papers/adaptiveexperimentspolicy_supplement.pdf)  
+  Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
+
+**Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
+  *Revise and resubmit, Journal of Economic Perspectives, 2020*  
+  Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
+  
+**Which findings should be published**,  
   (joint with Alex Frankel)  
-  *Submitted, 2018*  
+  *Revise and Resubmit, American Economic Journal: Microeconomics, 2020*  
   Manuscript: [findings.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
   
 **Who wins, who loses? Identification of the welfare impact of changing wages**  
   *Submitted, 2018*  
-  Manuscript: [whowinswholoses.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/whowinswholoses.pdf)
+  Manuscript: [whowinswholoses.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/Whowinswholoses.pdf)  
+  
+**Job search assistance for refugees in Jordan: An adaptive field experiment**  
+  (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
+  *Work in progress, 2020*  
+  RCT pre-registration: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
+  Dashboard of preliminary results: [Dashboard](/home/files/other/reproducible_analysis_jordan.html)  
 
 
+## Publications
 
-## Revise and resubmit
+**Approximate cross-validation: Guarantees for model assessment and selection**  
+(joint with Ashia Wilson and Lester Mackey)  
+*Artificial Intelligence and Statistics, 2020*  
+Manuscript: [acv-risk.pdf](/home/files/papers/acv-risk.pdf)  
+
+**No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**  
+  *Economics For Inclusive Prosperity, 2019*  
+  Manuscript: [No-Data-in-the-Void.pdf](/home/files/papers/No-Data-in-the-Void.pdf)  
 
 **Identification of and correction for publication bias**  
   (joint with Isaiah Andrews)  
-  *Revised and resubmitted, American Economic Review, 2018*  
-  Manuscript: [publicationbias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf)
-  
-  
-## Publications
+  *American Economic Review, 2019*  
+  Manuscript: [publicationbias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf)  
   
 **Choosing among regularized estimators in empirical economics - the risk of machine learning**  
   (joint with Alberto Abadie)  
-  *Forthcoming, Review of Economics and Statistics, 2018*  
+  *Forthcoming, Review of Economics and Statistics, 2019*  
   Manuscript: [riskml.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/riskml.pdf)  
-  
-**Optimal taxation and insurance using machine learning - sufficient statistics and beyond**  
-  *Forthcoming, Journal of Public Economics, 2018*  
-  Manuscript: [PolicyDecisions.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PolicyDecisions.pdf)  
   
 **How to use economic theory to improve estimators: Shrinking toward theoretical restrictions**  
   (joint with Pirmin Fessler)  
-  *Forthcoming, Review of Economics and Statistics, 2018*   
+  *Review of Economics and Statistics, 2019*  
   Manuscript: [shrinkingtotheory.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheory.pdf)  
-  Supplement: [shrinkingtotheorysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheorysupplement.pdf)
-  
+  Supplement: [shrinkingtotheorysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheorysupplement.pdf)  
+  Code and data for replication: [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O7BAYF)  
+
+**Optimal taxation and insurance using machine learning - sufficient statistics and beyond**  
+  *Journal of Public Economics, 2018*  
+  Manuscript: [PolicyDecisions.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PolicyDecisions.pdf)    
+
 **Uniformity and the delta method**,  
-  *Forthcoming, Journal of Econometric Methods, 2018*   
-  Manuscript: [uniformitynote.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/uniformitynote.pdf)
+  *Journal of Econometric Methods, 2019*   
+  Manuscript: [uniformitynote.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/uniformitynote.pdf)  
   
-**Survey mode effects on income inequality measurement**   
-  (joint with Pirmin Fessler and Peter Lindner)    
-  *Forthcoming, Journal of Economic Inequality, 2018*  
+**Survey mode effects on income inequality measurement**  
+  (joint with Pirmin Fessler and Peter Lindner)  
+  *Journal of Economic Inequality, 2018*  
   Manuscript: [surveymodeinequality.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymodeinequality.pdf)  
-  Supplement: [surveymethodinequalitysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymethodinequalitysupplement.pdf)
-  
+  Supplement: [surveymethodinequalitysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymethodinequalitysupplement.pdf)  
+    
 **Corrigendum: Instrumental Variables with Unrestricted Heterogeneity and Continuous Treatment**   
   (joint with Stefan Hoderlein, Hajo Holzmann, and Alexander Meister),  
   *The Review of Economic Studies, 2017*  

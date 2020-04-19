@@ -3,6 +3,37 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Was ist eine Rezession und was hat Corona damit zu tun?**  
+  March 26, 2020  
+  [Moment](https://www.moment.at/story/was-ist-eine-rezession-und-was-hat-corona-damit-zu-tun)  
+
+**Bringt die Maschinen unter Kontrolle!**  
+  February 06, 2020  
+  [Der Standard](https://www.derstandard.at/story/2000114215491/bringt-die-maschinen-unter-kontrolle)  
+
+**Selective publication of findings: Why does it matter, and what should we do about it?**  
+  September 17, 2019  
+  [MetaArxiv](https://osf.io/preprints/metaarxiv/xwngs/)  
+
+**No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**  
+  August 26, 2019  
+  [Economics For Inclusive Prosperity](/home/files/papers/efip_valuesanddata_kasy.pdf)  
+
+**The politics of machine learning**  
+  **Part I** June 27, 2019  
+  [Phenomenal World Blog](https://phenomenalworld.org/digital-ethics/politics-of-machine-learning)  
+  **Part II** July 3, 2019  
+  [Phenomenal World Blog](https://phenomenalworld.org/digital-ethics/politics-of-machine-learning-ii)  
+
+**Experiments for policy choice**  
+  March 28, 2019  
+  [Phenomenal World Blog](https://phenomenalworld.org/metaresearch/experiments-for-policy-choice)  
+
+**The case for an unconditional safety net - guest blog on US-BIG**  
+  February 1, 2019  
+  [Phenomenal World Blog](https://phenomenalworld.org/guaranteed-income/the-case-for-an-unconditional-safety-net)  
+  [Guest Blog, US-BIG](https://usbig.net/guest-blog-the-case-for-an-unconditional-safety-net/)  
+
 **Why a Universal Basic Income Is Better Than Subsidies of Low-Wage Work**  
   November 9, 2018  
   [Data for Progress working paper](http://filesforprogress.org/pdfs/UBI_EITC_Kasy_DFP_Working_Paper.pdf)   

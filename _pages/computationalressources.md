@@ -17,6 +17,18 @@ permalink: /computationlinks/
 (The theory and implementation of neural nets)  
 <https://www.deeplearningbook.org/>  
 
+**Reinforcement learning - An introduction**  
+(Adaptive learning for Markov decision problems)  
+<http://www.incompleteideas.net/book/RLbook2018.pdf>  
+
+**Algorithms**  
+(Introduction to the theory of algorithms)  
+<http://jeffe.cs.illinois.edu/teaching/algorithms/>  
+
+**The Ethical Algorithm**  
+(How to impose normative constraints on ML and other algorithms)  
+<https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207>  
+
 ## Programming in R
 **An Introduction to R**  
 (Complete introduction to base R)  
@@ -26,9 +38,17 @@ permalink: /computationlinks/
 (Introduction to data analysis using R, focused on the tidyverse packages)  
 <http://r4ds.had.co.nz/>  
 
-**Advanced R**
-(In depth discussion of programming in R)
+**Advanced R**  
+(In depth discussion of programming in R)  
 <https://adv-r.hadley.nz/>  
+
+**Hands-On Machine Learning with R**  
+(Fitting ML models in R)  
+<https://bradleyboehmke.github.io/HOML/>  
+
+**Bayesian statistics using Stan**  
+<https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started>  
+<https://mc-stan.org/docs/2_20/stan-users-guide/index.html>  
 
 **RStudio Cheat Sheets**  
 (for various extensions, including data processing, visualization, writing web apps, ...)  
@@ -37,15 +57,19 @@ permalink: /computationlinks/
 **Programming interactive R-apps using Shiny**  
 <https://shiny.rstudio.com/articles/>  
 
+**Training neural nets using Keras and Tensorflow**  
+<https://tensorflow.rstudio.com/keras/>  
+
 
 ## Data visualization
-**ggplot2 - Elegant Graphics for Data Analysis**  
-(R-package for data vizualization)  
-<http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf>  
 
 **Data Visualization - A Practical Introduction**  
 (Textbook on data visualization, using ggplot2)  
 <http://socviz.co/>  
+
+**ggplot2 - Elegant Graphics for Data Analysis**  
+(R-package for data vizualization)  
+<http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf>  
 
 **A Layered Grammar of Graphics**  
 (The theory behind ggplot2)  
@@ -70,8 +94,11 @@ permalink: /computationlinks/
 - The minimal-mistakes theme: <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>  
 
 
-## Other
-**Git and Github for version control**  
+## Version control
+**Git and Github for R**  
+<https://happygitwithr.com/>  
+
+**Git and Github, in depth**  
 <https://git-scm.com/book/en/v2>  
 
 
